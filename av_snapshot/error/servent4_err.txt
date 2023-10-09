@@ -1,0 +1,5 @@
+17:13:16 - Cannot send message TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=5, 6=0, 0=0} (Broken pipe)
+17:13:16 - Cannot send message TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=23, 6=0, 0=0} (Broken pipe)
+17:13:19 - Cannot send message TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=13} (Broken pipe)
+17:13:19 - Cannot send message TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=22, 0=0} (Broken pipe)
+17:13:43 - Cannot send message TRANSACTION of 10 bitcakes to 2 with clock {1=7, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0} (Operation timed out)

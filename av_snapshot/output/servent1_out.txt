@@ -1,0 +1,644 @@
+17:13:11 - Starting servent 1
+17:13:11 - Bursting 5 transactions
+17:13:11 - Pausing for 15000 ms
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 2 with clock {1=1, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 3 with clock {1=2, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 4 with clock {1=3, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 5 with clock {1=4, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 6 with clock {1=5, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 0 with clock {1=6, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 2 with clock {1=7, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 3 with clock {1=8, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 4 with clock {1=9, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 5 with clock {1=10, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 6 with clock {1=11, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 0 with clock {1=12, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 2 with clock {1=13, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 3 with clock {1=14, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 4 with clock {1=15, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 5 with clock {1=16, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 6 with clock {1=17, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 0 with clock {1=18, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 2 with clock {1=19, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 3 with clock {1=20, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 4 with clock {1=21, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 5 with clock {1=22, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 6 with clock {1=23, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 0 with clock {1=24, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 2 with clock {1=25, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 3 with clock {1=26, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 4 with clock {1=27, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 5 with clock {1=28, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:11 - Received via 1: TRANSACTION of 10 bitcakes to 6 with clock {1=29, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:11 - Redirecting TRANSACTION from 1 to 0
+17:13:11 - Redirecting TRANSACTION from 1 to 3
+17:13:11 - Redirecting TRANSACTION from 1 to 2
+17:13:11 - Redirecting TRANSACTION from 1 to 5
+17:13:13 - Received via 0: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=2}
+17:13:13 - Redirecting TRANSACTION from 0 to 3
+17:13:13 - Redirecting TRANSACTION from 0 to 2
+17:13:13 - Redirecting TRANSACTION from 0 to 5
+17:13:13 - Received via 0: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=10}
+17:13:13 - Redirecting TRANSACTION from 0 to 3
+17:13:13 - Redirecting TRANSACTION from 0 to 2
+17:13:13 - Redirecting TRANSACTION from 0 to 5
+17:13:13 - Received via 0: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=24}
+17:13:13 - Redirecting TRANSACTION from 0 to 3
+17:13:13 - Redirecting TRANSACTION from 0 to 2
+17:13:13 - Redirecting TRANSACTION from 0 to 5
+17:13:13 - Received via 0: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=23}
+17:13:13 - Redirecting TRANSACTION from 0 to 3
+17:13:13 - Redirecting TRANSACTION from 0 to 2
+17:13:13 - Redirecting TRANSACTION from 0 to 5
+17:13:13 - Received via 0: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=11}
+17:13:13 - Redirecting TRANSACTION from 0 to 3
+17:13:13 - Redirecting TRANSACTION from 0 to 2
+17:13:13 - Redirecting TRANSACTION from 0 to 5
+17:13:13 - Received via 0: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=12}
+17:13:13 - Redirecting TRANSACTION from 0 to 3
+17:13:13 - Redirecting TRANSACTION from 0 to 2
+17:13:13 - Redirecting TRANSACTION from 0 to 5
+17:13:13 - Received via 5: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=8, 6=0, 0=0}
+17:13:13 - Redirecting TRANSACTION from 5 to 0
+17:13:13 - Redirecting TRANSACTION from 5 to 3
+17:13:13 - Redirecting TRANSACTION from 5 to 2
+17:13:13 - Received via 5: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=10, 6=0, 0=0}
+17:13:13 - Redirecting TRANSACTION from 5 to 0
+17:13:13 - Redirecting TRANSACTION from 5 to 3
+17:13:13 - Redirecting TRANSACTION from 5 to 2
+17:13:14 - Received via 5: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=6, 6=0, 0=0}
+17:13:14 - Redirecting TRANSACTION from 5 to 0
+17:13:14 - Redirecting TRANSACTION from 5 to 3
+17:13:14 - Redirecting TRANSACTION from 5 to 2
+17:13:14 - Received via 0: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=13}
+17:13:14 - Redirecting TRANSACTION from 0 to 3
+17:13:14 - Redirecting TRANSACTION from 0 to 2
+17:13:14 - Redirecting TRANSACTION from 0 to 5
+17:13:14 - Received via 5: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=3, 6=0, 0=0}
+17:13:14 - Redirecting TRANSACTION from 5 to 0
+17:13:14 - Redirecting TRANSACTION from 5 to 3
+17:13:14 - Redirecting TRANSACTION from 5 to 2
+17:13:14 - Received via 0: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=27}
+17:13:14 - Redirecting TRANSACTION from 0 to 3
+17:13:14 - Redirecting TRANSACTION from 0 to 2
+17:13:14 - Redirecting TRANSACTION from 0 to 5
+17:13:14 - Received via 5: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=14, 6=0, 0=0}
+17:13:14 - Redirecting TRANSACTION from 5 to 0
+17:13:14 - Redirecting TRANSACTION from 5 to 3
+17:13:14 - Redirecting TRANSACTION from 5 to 2
+17:13:14 - Received via 5: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=20, 6=0, 0=0}
+17:13:14 - Redirecting TRANSACTION from 5 to 0
+17:13:14 - Redirecting TRANSACTION from 5 to 3
+17:13:14 - Redirecting TRANSACTION from 5 to 2
+17:13:14 - Received via 5: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=15, 6=0, 0=0}
+17:13:14 - Redirecting TRANSACTION from 5 to 0
+17:13:14 - Redirecting TRANSACTION from 5 to 3
+17:13:14 - Redirecting TRANSACTION from 5 to 2
+17:13:14 - Received via 5: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=9, 6=0, 0=0}
+17:13:14 - Redirecting TRANSACTION from 5 to 0
+17:13:14 - Redirecting TRANSACTION from 5 to 3
+17:13:14 - Redirecting TRANSACTION from 5 to 2
+17:13:14 - Received via 0: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=20}
+17:13:14 - Redirecting TRANSACTION from 0 to 3
+17:13:14 - Redirecting TRANSACTION from 0 to 2
+17:13:14 - Redirecting TRANSACTION from 0 to 5
+17:13:14 - Received via 0: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=28}
+17:13:14 - Redirecting TRANSACTION from 0 to 3
+17:13:14 - Redirecting TRANSACTION from 0 to 2
+17:13:14 - Redirecting TRANSACTION from 0 to 5
+17:13:14 - Received via 0: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=25}
+17:13:14 - Redirecting TRANSACTION from 0 to 3
+17:13:14 - Redirecting TRANSACTION from 0 to 2
+17:13:14 - Redirecting TRANSACTION from 0 to 5
+17:13:14 - Received via 0: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=6}
+17:13:14 - Redirecting TRANSACTION from 0 to 3
+17:13:14 - Redirecting TRANSACTION from 0 to 2
+17:13:14 - Redirecting TRANSACTION from 0 to 5
+17:13:14 - Received via 2: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=1, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:14 - Redirecting TRANSACTION from 2 to 0
+17:13:14 - Redirecting TRANSACTION from 2 to 3
+17:13:14 - Redirecting TRANSACTION from 2 to 5
+17:13:14 - Received via 0: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=9}
+17:13:14 - Redirecting TRANSACTION from 0 to 3
+17:13:14 - Redirecting TRANSACTION from 0 to 2
+17:13:14 - Redirecting TRANSACTION from 0 to 5
+17:13:14 - Received via 0: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=8}
+17:13:14 - Redirecting TRANSACTION from 0 to 3
+17:13:14 - Redirecting TRANSACTION from 0 to 2
+17:13:14 - Redirecting TRANSACTION from 0 to 5
+17:13:14 - Received via 5: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=21, 6=0, 0=0}
+17:13:14 - Redirecting TRANSACTION from 5 to 0
+17:13:14 - Redirecting TRANSACTION from 5 to 3
+17:13:14 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=4, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:15 - Redirecting TRANSACTION from 5 to 3
+17:13:15 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=12, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:15 - Redirecting TRANSACTION from 5 to 3
+17:13:15 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=19, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:15 - Redirecting TRANSACTION from 5 to 3
+17:13:15 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=22}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 2: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=6, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 2 to 0
+17:13:15 - Redirecting TRANSACTION from 2 to 3
+17:13:15 - Redirecting TRANSACTION from 2 to 5
+17:13:15 - Received via 2: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=9, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 2 to 0
+17:13:15 - Redirecting TRANSACTION from 2 to 3
+17:13:15 - Redirecting TRANSACTION from 2 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=4}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=19}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=3}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=18}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 2: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=4, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 2 to 0
+17:13:15 - Redirecting TRANSACTION from 2 to 3
+17:13:15 - Redirecting TRANSACTION from 2 to 5
+17:13:15 - Received via 2: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 2 to 0
+17:13:15 - Redirecting TRANSACTION from 2 to 3
+17:13:15 - Redirecting TRANSACTION from 2 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=17}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=7}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 2: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=5, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 2 to 0
+17:13:15 - Redirecting TRANSACTION from 2 to 3
+17:13:15 - Redirecting TRANSACTION from 2 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=1}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=21}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=14}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=16}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=29}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=5}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=15}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 0: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=26}
+17:13:15 - Redirecting TRANSACTION from 0 to 3
+17:13:15 - Redirecting TRANSACTION from 0 to 2
+17:13:15 - Redirecting TRANSACTION from 0 to 5
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=17, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:15 - Redirecting TRANSACTION from 5 to 3
+17:13:15 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=16, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:15 - Redirecting TRANSACTION from 5 to 3
+17:13:15 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=22, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:15 - Redirecting TRANSACTION from 5 to 3
+17:13:15 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=5, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:15 - Redirecting TRANSACTION from 5 to 3
+17:13:15 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=18, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:15 - Redirecting TRANSACTION from 5 to 3
+17:13:15 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=13, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:15 - Redirecting TRANSACTION from 5 to 3
+17:13:15 - Redirecting TRANSACTION from 5 to 2
+17:13:15 - Received via 5: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=24, 6=0, 0=0}
+17:13:15 - Redirecting TRANSACTION from 5 to 0
+17:13:16 - Redirecting TRANSACTION from 5 to 3
+17:13:16 - Redirecting TRANSACTION from 5 to 2
+17:13:16 - Received via 5: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=26, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 5 to 0
+17:13:16 - Redirecting TRANSACTION from 5 to 3
+17:13:16 - Redirecting TRANSACTION from 5 to 2
+17:13:16 - Received via 5: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=23, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 5 to 0
+17:13:16 - Redirecting TRANSACTION from 5 to 3
+17:13:16 - Redirecting TRANSACTION from 5 to 2
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=28, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=22, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=2, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 5: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=7, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 5 to 0
+17:13:16 - Redirecting TRANSACTION from 5 to 3
+17:13:16 - Redirecting TRANSACTION from 5 to 2
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=12, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=21, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=17, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=14, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=23, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=26, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 2: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=11, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 2 to 0
+17:13:16 - Redirecting TRANSACTION from 2 to 3
+17:13:16 - Redirecting TRANSACTION from 2 to 5
+17:13:16 - Received via 5: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=25, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 5 to 0
+17:13:16 - Redirecting TRANSACTION from 5 to 3
+17:13:16 - Redirecting TRANSACTION from 5 to 2
+17:13:16 - Received via 5: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=27, 6=0, 0=0}
+17:13:16 - Redirecting TRANSACTION from 5 to 0
+17:13:16 - Redirecting TRANSACTION from 5 to 3
+17:13:16 - Redirecting TRANSACTION from 5 to 2
+17:13:16 - Received via 5: ASK with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:16 - Redirecting ASK from 4 to 0
+17:13:16 - Redirecting ASK from 4 to 3
+17:13:16 - Redirecting ASK from 4 to 2
+17:13:17 - Received via 1: TELL of 760 bitcakes with clock {1=30, 2=3, 3=0, 4=1, 5=0, 6=0, 0=30}
+17:13:17 - Redirecting TELL from 1 to 0
+17:13:17 - Redirecting TELL from 1 to 3
+17:13:17 - Redirecting TELL from 1 to 2
+17:13:17 - Redirecting TELL from 1 to 5
+17:13:17 - Received via 5: TELL of 710 bitcakes with clock {1=5, 2=0, 3=0, 4=1, 5=30, 6=0, 0=0}
+17:13:17 - Redirecting TELL from 5 to 0
+17:13:17 - Redirecting TELL from 5 to 3
+17:13:17 - Redirecting TELL from 5 to 2
+17:13:17 - Received via 5: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 5 to 0
+17:13:17 - Redirecting TRANSACTION from 5 to 3
+17:13:17 - Redirecting TRANSACTION from 5 to 2
+17:13:17 - Received via 5: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=2, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 5 to 0
+17:13:17 - Redirecting TRANSACTION from 5 to 3
+17:13:17 - Redirecting TRANSACTION from 5 to 2
+17:13:17 - Received via 0: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=3, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 2 to 3
+17:13:17 - Redirecting TRANSACTION from 2 to 5
+17:13:17 - Received via 3: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=19, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 2 to 0
+17:13:17 - Redirecting TRANSACTION from 2 to 5
+17:13:17 - Received via 3: TELL of 1000 bitcakes with clock {1=2, 2=0, 3=0, 4=1, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TELL from 3 to 0
+17:13:17 - Redirecting TELL from 3 to 2
+17:13:17 - Redirecting TELL from 3 to 5
+17:13:17 - Received via 5: TELL of 1000 bitcakes with clock {1=0, 2=0, 3=0, 4=1, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TELL from 4 to 0
+17:13:17 - Redirecting TELL from 4 to 3
+17:13:17 - Redirecting TELL from 4 to 2
+17:13:17 - Received via 3: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=8, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 2 to 0
+17:13:17 - Redirecting TRANSACTION from 2 to 5
+17:13:17 - Received via 0: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=13, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 2 to 3
+17:13:17 - Redirecting TRANSACTION from 2 to 5
+17:13:17 - Received via 0: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=20, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 2 to 3
+17:13:17 - Redirecting TRANSACTION from 2 to 5
+17:13:17 - Received via 3: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=10, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 2 to 0
+17:13:17 - Redirecting TRANSACTION from 2 to 5
+17:13:17 - Received via 5: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=1, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 5 to 0
+17:13:17 - Redirecting TRANSACTION from 5 to 3
+17:13:17 - Redirecting TRANSACTION from 5 to 2
+17:13:17 - Received via 3: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=29, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 2 to 0
+17:13:17 - Redirecting TRANSACTION from 2 to 5
+17:13:17 - Received via 3: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=18, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 2 to 0
+17:13:17 - Redirecting TRANSACTION from 2 to 5
+17:13:17 - Received via 5: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=11, 6=0, 0=0}
+17:13:17 - Redirecting TRANSACTION from 5 to 0
+17:13:17 - Redirecting TRANSACTION from 5 to 3
+17:13:17 - Redirecting TRANSACTION from 5 to 2
+17:13:18 - Received via 2: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=27, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:18 - Redirecting TRANSACTION from 2 to 0
+17:13:18 - Redirecting TRANSACTION from 2 to 3
+17:13:18 - Redirecting TRANSACTION from 2 to 5
+17:13:18 - Received via 0: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=15, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:18 - Redirecting TRANSACTION from 2 to 3
+17:13:18 - Redirecting TRANSACTION from 2 to 5
+17:13:18 - Received via 3: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=24, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:18 - Redirecting TRANSACTION from 2 to 0
+17:13:18 - Redirecting TRANSACTION from 2 to 5
+17:13:18 - Received via 3: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=4, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 0
+17:13:18 - Redirecting TRANSACTION from 6 to 2
+17:13:18 - Redirecting TRANSACTION from 6 to 5
+17:13:18 - Received via 3: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=10, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 0
+17:13:18 - Redirecting TRANSACTION from 6 to 2
+17:13:18 - Redirecting TRANSACTION from 6 to 5
+17:13:18 - Received via 3: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=25, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:18 - Redirecting TRANSACTION from 2 to 0
+17:13:18 - Redirecting TRANSACTION from 2 to 5
+17:13:18 - Received via 3: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=2, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 0
+17:13:18 - Redirecting TRANSACTION from 6 to 2
+17:13:18 - Redirecting TRANSACTION from 6 to 5
+17:13:18 - Received via 5: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=15, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 0
+17:13:18 - Redirecting TRANSACTION from 6 to 3
+17:13:18 - Redirecting TRANSACTION from 6 to 2
+17:13:18 - Received via 5: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=19, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 0
+17:13:18 - Redirecting TRANSACTION from 6 to 3
+17:13:18 - Redirecting TRANSACTION from 6 to 2
+17:13:18 - Received via 0: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=11, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 3
+17:13:18 - Redirecting TRANSACTION from 6 to 2
+17:13:18 - Redirecting TRANSACTION from 6 to 5
+17:13:18 - Received via 2: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=8, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 0
+17:13:18 - Redirecting TRANSACTION from 6 to 3
+17:13:18 - Redirecting TRANSACTION from 6 to 5
+17:13:18 - Received via 2: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=18, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 0
+17:13:18 - Redirecting TRANSACTION from 6 to 3
+17:13:18 - Redirecting TRANSACTION from 6 to 5
+17:13:18 - Received via 3: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=13, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 0
+17:13:18 - Redirecting TRANSACTION from 6 to 2
+17:13:18 - Redirecting TRANSACTION from 6 to 5
+17:13:18 - Received via 0: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=9, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 3
+17:13:18 - Redirecting TRANSACTION from 6 to 2
+17:13:18 - Redirecting TRANSACTION from 6 to 5
+17:13:18 - Received via 5: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=21, 0=0}
+17:13:18 - Redirecting TRANSACTION from 6 to 0
+17:13:18 - Redirecting TRANSACTION from 6 to 3
+17:13:18 - Redirecting TRANSACTION from 6 to 2
+17:13:19 - Received via 5: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=20, 0=0}
+17:13:19 - Redirecting TRANSACTION from 6 to 0
+17:13:19 - Redirecting TRANSACTION from 6 to 3
+17:13:19 - Redirecting TRANSACTION from 6 to 2
+17:13:19 - Received via 3: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=29, 0=0}
+17:13:19 - Redirecting TRANSACTION from 6 to 0
+17:13:19 - Redirecting TRANSACTION from 6 to 2
+17:13:19 - Redirecting TRANSACTION from 6 to 5
+17:13:19 - Received via 0: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:19 - Redirecting TRANSACTION from 6 to 3
+17:13:19 - Redirecting TRANSACTION from 6 to 2
+17:13:19 - Redirecting TRANSACTION from 6 to 5
+17:13:19 - Received via 3: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=14, 0=0}
+17:13:19 - Redirecting TRANSACTION from 6 to 0
+17:13:19 - Redirecting TRANSACTION from 6 to 2
+17:13:19 - Redirecting TRANSACTION from 6 to 5
+17:13:19 - Received via 0: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=27, 0=0}
+17:13:19 - Redirecting TRANSACTION from 6 to 3
+17:13:19 - Redirecting TRANSACTION from 6 to 2
+17:13:19 - Redirecting TRANSACTION from 6 to 5
+17:13:19 - Received via 3: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=28, 6=0, 0=0}
+17:13:19 - Redirecting TRANSACTION from 5 to 0
+17:13:19 - Redirecting TRANSACTION from 5 to 2
+17:13:19 - Received via 5: TRANSACTION of 10 bitcakes to 2 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=26, 0=0}
+17:13:19 - Redirecting TRANSACTION from 6 to 0
+17:13:19 - Redirecting TRANSACTION from 6 to 3
+17:13:19 - Redirecting TRANSACTION from 6 to 2
+17:13:19 - Received via 3: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=28, 0=0}
+17:13:19 - Redirecting TRANSACTION from 6 to 0
+17:13:19 - Redirecting TRANSACTION from 6 to 2
+17:13:19 - Redirecting TRANSACTION from 6 to 5
+17:13:19 - Received via 0: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=25, 0=0}
+17:13:19 - Redirecting TRANSACTION from 6 to 3
+17:13:19 - Redirecting TRANSACTION from 6 to 2
+17:13:19 - Redirecting TRANSACTION from 6 to 5
+17:13:20 - Received via 2: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=22, 0=0}
+17:13:20 - Redirecting TRANSACTION from 6 to 0
+17:13:20 - Redirecting TRANSACTION from 6 to 3
+17:13:20 - Redirecting TRANSACTION from 6 to 5
+17:13:20 - Received via 3: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=17, 0=0}
+17:13:20 - Redirecting TRANSACTION from 6 to 0
+17:13:20 - Redirecting TRANSACTION from 6 to 2
+17:13:20 - Redirecting TRANSACTION from 6 to 5
+17:13:20 - Received via 0: TRANSACTION of 10 bitcakes to 4 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=16, 0=0}
+17:13:20 - Redirecting TRANSACTION from 6 to 3
+17:13:20 - Redirecting TRANSACTION from 6 to 2
+17:13:20 - Redirecting TRANSACTION from 6 to 5
+17:13:20 - Received via 2: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=6, 0=0}
+17:13:20 - Redirecting TRANSACTION from 6 to 3
+17:13:20 - Redirecting TRANSACTION from 6 to 5
+17:13:20 - Received via 5: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=7, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:20 - Redirecting TRANSACTION from 2 to 0
+17:13:20 - Redirecting TRANSACTION from 2 to 3
+17:13:21 - Received via 2: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=7, 0=0}
+17:13:21 - Redirecting TRANSACTION from 6 to 3
+17:13:21 - Redirecting TRANSACTION from 6 to 5
+17:13:21 - Received via 0: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=5, 0=0}
+17:13:21 - Redirecting TRANSACTION from 6 to 3
+17:13:21 - Redirecting TRANSACTION from 6 to 2
+17:13:21 - Redirecting TRANSACTION from 6 to 5
+17:13:22 - Received via 0: TELL of 890 bitcakes with clock {1=30, 2=30, 3=0, 4=1, 5=27, 6=23, 0=30}
+17:13:22 - Redirecting TELL from 0 to 3
+17:13:22 - Redirecting TELL from 0 to 2
+17:13:22 - Redirecting TELL from 0 to 5
+17:13:22 - Received via 3: TRANSACTION of 10 bitcakes to 1 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=1, 0=0}
+17:13:22 - Redirecting TRANSACTION from 6 to 0
+17:13:22 - Redirecting TRANSACTION from 6 to 2
+17:13:22 - Redirecting TRANSACTION from 6 to 5
+17:13:22 - Received via 2: TRANSACTION of 10 bitcakes to 3 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=3, 0=0}
+17:13:22 - Redirecting TRANSACTION from 6 to 3
+17:13:22 - Redirecting TRANSACTION from 6 to 5
+17:13:22 - Received via 2: TRANSACTION of 10 bitcakes to 6 with clock {1=0, 2=0, 3=0, 4=0, 5=29, 6=0, 0=0}
+17:13:22 - Redirecting TRANSACTION from 5 to 0
+17:13:22 - Redirecting TRANSACTION from 5 to 3
+17:13:22 - Received via 0: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=24, 0=0}
+17:13:22 - Redirecting TRANSACTION from 6 to 3
+17:13:22 - Redirecting TRANSACTION from 6 to 2
+17:13:22 - Redirecting TRANSACTION from 6 to 5
+17:13:23 - Received via 3: TELL of 750 bitcakes with clock {1=2, 2=2, 3=0, 4=1, 5=2, 6=30, 0=30}
+17:13:23 - Redirecting TELL from 6 to 0
+17:13:23 - Redirecting TELL from 6 to 2
+17:13:23 - Redirecting TELL from 6 to 5
+17:13:24 - Received via 2: TRANSACTION of 10 bitcakes to 0 with clock {1=0, 2=0, 3=0, 4=0, 5=0, 6=12, 0=0}
+17:13:24 - Redirecting TRANSACTION from 6 to 3
+17:13:24 - Redirecting TRANSACTION from 6 to 5
+17:13:25 - Received via 5: TRANSACTION of 10 bitcakes to 5 with clock {1=0, 2=16, 3=0, 4=0, 5=0, 6=0, 0=0}
+17:13:25 - Redirecting TRANSACTION from 2 to 0
+17:13:26 - Received via 1: STOP with clock {1=31, 2=30, 3=1, 4=2, 5=31, 6=23, 0=31}
+17:13:26 - Redirecting STOP from 1 to 0
+17:13:26 - Redirecting STOP from 1 to 3
+17:13:26 - Redirecting STOP from 1 to 2
+17:13:26 - Redirecting STOP from 1 to 5
+17:13:26 - Stopping
