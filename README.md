@@ -12,8 +12,6 @@
 
 This project is an implementation of a distributed system that supports various functionalities based on the specifications outlined in the assignment. The primary goal is to create a distributed system that can take snapshots at any node in the system. The system is designed to be implemented in either Java or Go programming languages, and it allows the use of auxiliary libraries for communication between nodes.
 
-**Note:** This README provides an overview of the project and its key components, but detailed technical documentation should be included within the codebase.
-
 ## Functional Requirements
 
 1. **Asynchronous Non-FIFO Communication:** The system should support fully asynchronous non-FIFO communication.
