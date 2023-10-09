@@ -5,8 +5,6 @@
 - [Introduction](#introduction)
 - [Functional Requirements](#functional-requirements)
 - [Non-Functional Requirements](#non-functional-requirements)
-- [How to Submit](#how-to-submit)
-- [Defense and Grading](#defense-and-grading)
 
 ## Introduction
 
